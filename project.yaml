@@ -25,7 +25,7 @@ repositories:
 
 website: "https://kmesh.net"
 
-artwork: "https://landscape.cncf.io/logos/kmesh.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kmesh"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
